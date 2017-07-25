@@ -1,0 +1,25 @@
+{
+  "name": "devrock",
+  "version": "1.0.0",
+  "description": "App angular con dashboard",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpldev/AppAngular.git"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "jpldev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpldev/AppAngular/issues"
+  },
+  "homepage": "https://github.com/jpldev/AppAngular#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
